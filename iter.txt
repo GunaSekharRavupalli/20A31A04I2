@@ -1,0 +1,2 @@
+each and every time outer for is intialised 
+each and every time inner for is reinitialised
